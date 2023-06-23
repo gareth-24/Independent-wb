@@ -1,0 +1,9 @@
+Functional Programming with JS | Whiteboarding Independent Project
+Gareth Grindeland
+Friday, June 23
+----------------------------
+
+Question #?
+
+
+Solution:
