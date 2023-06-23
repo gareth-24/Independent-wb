@@ -1,4 +1,4 @@
-# _Indpedent Whiteboarding_
+# _Indepedent Whiteboarding_
 
 #### _**Gareth Grindeland**_
 
